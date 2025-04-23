@@ -1,0 +1,86 @@
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.exe
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.deps.json
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.runtimeconfig.json
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.dll
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.pdb
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.Form1.resources
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.Properties.Resources.resources
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.csproj.GenerateResource.cache
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.AssemblyInfoInputs.cache
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.AssemblyInfo.cs
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.csproj.CoreCompileInputs.cache
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.dll
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\refint\PresentaionLayer.dll
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.pdb
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.genruntimeconfig.cache
+F:\ITI\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\ref\PresentaionLayer.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.exe
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.deps.json
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.runtimeconfig.json
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\PresentaionLayer.pdb
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Azure.Core.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Azure.Identity.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\System.ClientModel.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\System.Memory.Data.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\BLL.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\DAL.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\BLL.pdb
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\bin\Debug\net7.0-windows\DAL.pdb
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.csproj.AssemblyReference.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.Form1.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.Properties.Resources.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.RegisterForm.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.csproj.GenerateResource.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.AssemblyInfoInputs.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.AssemblyInfo.cs
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.csproj.CoreCompileInputs.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\refint\PresentaionLayer.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.pdb
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.genruntimeconfig.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\ref\PresentaionLayer.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.ProductListForm.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.ProductForms.InsertProduct.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.ProductForms.UpdateProduct.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.AdminForms.AdminLayoutFrom.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.AdminForms.CustomerForms.CustomerListForm.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.AdminForms.CustomerForms.UpdateCustomer.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.CustomerForms.CustomerProductList.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.CustomerForms.ProductDetailsForm.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.CustomerForms.UserCart.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.CustomerForms.UserOrders.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\PresentaionLayer.AdminForms.OrderForms.AllOrdersForm.resources
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\PresentaionLayer\obj\Debug\net7.0-windows\Presenta.50CA0B8E.Up2Date

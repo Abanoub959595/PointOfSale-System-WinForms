@@ -1,0 +1,11 @@
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\bin\Debug\net7.0\ViewModel.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\obj\Debug\net7.0\ViewModel.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI\\Dot Net\\Linq\\SimpleECommerce\\DAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49ACAB3D-4A25-4F04-987F-FAD784795B93}|PresentaionLayer\\PresentaionLayer.csproj|f:\\iti\\dot net\\linq\\simpleecommerce\\dal\\presentaionlayer\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ACAB3D-4A25-4F04-987F-FAD784795B93}|PresentaionLayer\\PresentaionLayer.csproj|solutionrelative:presentaionlayer\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ACAB3D-4A25-4F04-987F-FAD784795B93}|PresentaionLayer\\PresentaionLayer.csproj|f:\\iti\\dot net\\linq\\simpleecommerce\\dal\\presentaionlayer\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49ACAB3D-4A25-4F04-987F-FAD784795B93}|PresentaionLayer\\PresentaionLayer.csproj|solutionrelative:presentaionlayer\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ACAB3D-4A25-4F04-987F-FAD784795B93}|PresentaionLayer\\PresentaionLayer.csproj|f:\\iti\\dot net\\linq\\simpleecommerce\\dal\\presentaionlayer\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ACAB3D-4A25-4F04-987F-FAD784795B93}|PresentaionLayer\\PresentaionLayer.csproj|solutionrelative:presentaionlayer\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49ACAB3D-4A25-4F04-987F-FAD784795B93}|PresentaionLayer\\PresentaionLayer.csproj|f:\\iti\\dot net\\linq\\simpleecommerce\\dal\\presentaionlayer\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49ACAB3D-4A25-4F04-987F-FAD784795B93}|PresentaionLayer\\PresentaionLayer.csproj|solutionrelative:presentaionlayer\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "F:\\ITI\\Dot Net\\Linq\\SimpleECommerce\\DAL\\PresentaionLayer\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "PresentaionLayer\\RegisterForm.cs",
+              "ToolTip": "F:\\ITI\\Dot Net\\Linq\\SimpleECommerce\\DAL\\PresentaionLayer\\RegisterForm.cs",
+              "RelativeToolTip": "PresentaionLayer\\RegisterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:47:24.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "F:\\ITI\\Dot Net\\Linq\\SimpleECommerce\\DAL\\PresentaionLayer\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "PresentaionLayer\\RegisterForm.cs",
+              "ToolTip": "F:\\ITI\\Dot Net\\Linq\\SimpleECommerce\\DAL\\PresentaionLayer\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "PresentaionLayer\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:47:13.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "F:\\ITI\\Dot Net\\Linq\\SimpleECommerce\\DAL\\PresentaionLayer\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "PresentaionLayer\\RegisterForm.Designer.cs",
+              "ToolTip": "F:\\ITI\\Dot Net\\Linq\\SimpleECommerce\\DAL\\PresentaionLayer\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "PresentaionLayer\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:47:06.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "F:\\ITI\\Dot Net\\Linq\\SimpleECommerce\\DAL\\PresentaionLayer\\UserSession.cs",
+              "RelativeDocumentMoniker": "PresentaionLayer\\UserSession.cs",
+              "ToolTip": "F:\\ITI\\Dot Net\\Linq\\SimpleECommerce\\DAL\\PresentaionLayer\\UserSession.cs",
+              "RelativeToolTip": "PresentaionLayer\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:46:59.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

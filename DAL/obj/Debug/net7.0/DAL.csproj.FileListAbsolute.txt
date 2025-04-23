@@ -1,0 +1,17 @@
+F:\ITI\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+F:\ITI\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+F:\ITI\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+F:\ITI\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\bin\Debug\net7.0\DAL.deps.json
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\bin\Debug\net7.0\DAL.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\bin\Debug\net7.0\DAL.pdb
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\refint\DAL.dll
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\DAL.pdb
+F:\ITI\Dot Net\Linq\SimpleECommerce\DAL\DAL\obj\Debug\net7.0\ref\DAL.dll
